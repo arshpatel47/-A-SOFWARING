@@ -264,6 +264,10 @@ p {
 .responsive__navbar .brand h2 {
   font-size: 1.2rem;
 }
+.button_download a {
+  color: #45b649;
+}
+
 
 .responsive__navbar .brand h2 span {
   margin-left: 0.5rem;
